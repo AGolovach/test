@@ -1,0 +1,1 @@
+puts "Vasiliev pidor ebaniy"
